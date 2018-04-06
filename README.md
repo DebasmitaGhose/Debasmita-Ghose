@@ -1,6 +1,6 @@
 # Debasmita Ghose
 
-## [Projects](https://github.com/DebasmitaGhose/Debasmita-Ghose/blob/master/Projects.md) | [CV](https://github.com/DebasmitaGhose/Debasmita-Ghose/blob/master/CV.md)
+## [Projects](https://debasmitaghose.github.io/Projects/) | [CV](https://github.com/DebasmitaGhose/Debasmita-Ghose/blob/master/CV.md)
 
 You can use the [editor on GitHub](https://github.com/DebasmitaGhose/DebasmitaGhose/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

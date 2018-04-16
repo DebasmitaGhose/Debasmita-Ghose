@@ -12,4 +12,4 @@ I am particularly interested in the control and perception of legged robots in c
 
 I have always been a curious person and my curiosity always made me ponder how things can work better. Besides incessantly wanting to learn more every day, I am greatly drawn towards travelling and photography. 
 
-### [LinkedIn](https://www.linkedin.com/in/debasmita-ghose-59859763/) | <a href="mailto:dghose@umass.edu" target="_top">E-Mail</a>
+### [GitHub](https://github.com/DebasmitaGhose/) | [LinkedIn](https://www.linkedin.com/in/debasmita-ghose-59859763/) | <a href="mailto:dghose@umass.edu" target="_top">E-Mail</a>

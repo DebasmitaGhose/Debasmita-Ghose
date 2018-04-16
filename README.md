@@ -6,4 +6,6 @@ I am a graduate student of Computer Science at University of Massachusetts, Amhe
 
 I am particularly interested in the control and perception of legged robots in chaotic environments and design of UAVs.
 
-Besides incessantly wanting to learn more every day, I am greatly drawn towards travelling and photography. 
+I have always been a curious person and my curiosity always made me ponder how things can work better. Besides incessantly wanting to learn more every day, I am greatly drawn towards travelling and photography. 
+
+![](profile.jpg)

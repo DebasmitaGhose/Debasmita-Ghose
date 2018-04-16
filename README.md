@@ -8,5 +8,5 @@ I am particularly interested in the control and perception of legged robots in c
 
 I have always been a curious person and my curiosity always made me ponder how things can work better. Besides incessantly wanting to learn more every day, I am greatly drawn towards travelling and photography. 
 
-<img src="profile.jpg" width="100" height="100" align="left"/>
+<img src="profile.jpg" width="100" height="100" align="right"/>
 </p>

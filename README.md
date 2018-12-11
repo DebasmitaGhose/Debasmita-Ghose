@@ -8,7 +8,7 @@
 
 I am a graduate student of Computer Science at University of Massachusetts, Amherst. I am working as a Graduate Research Assistant at [Laboratory for Perceptual Robotics](https://www-robotics.cs.umass.edu/), under [Prof. Rod Grupen](http://www-robotics.cs.umass.edu/~grupen/home.html). My areas of interest are Robotics, Computer Vision and Embedded System Design. I have always been a curious person and my curiosity always made me ponder how things can work better. During my undergraduate studies at Manipal Institute of Technology, India, I have built the protoypes of various systems, that can help people lead better lives, through my skills in Embedded Systems Design. I have enjoyed working at Technical University of Dresden, Germany, Nanyang Technological University, Singapore and Siemens Corporate Technology, Munich, Germany. 
 
-I have been involved in projects in the domain of Robotics,  Ubiquitous Computing,  Machine Learning and Deep Learning for Computer Vision. I am particularly interested in the control and perception of legged robots in chaotic environments and design of UAVs.
+I have been involved in projects in the domain of Robotics,  Ubiquitous Computing,  Machine Learning and Deep Learning for Computer Vision. I am particularly interested in the manipulation and control of robots in chaotic environments and design of UAVs.
 
 Besides incessantly wanting to learn more every day, I am greatly drawn towards travelling, photography and cooking. 
 

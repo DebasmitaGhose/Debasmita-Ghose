@@ -1,6 +1,6 @@
 # Debasmita Ghose
 
-## [Projects](https://debasmitaghose.github.io/Projects/) | [CV](https://debasmitaghose.github.io/CV/) 
+## [Projects](https://debasmitaghose.github.io/Projects/) | [CV](https://debasmitaghose.github.io/CV/) | [Robots](https://github.com/DebasmitaGhose/Debasmita-Ghose/blob/master/Robots.md)
 
 <p>
 <img src="profile.jpg" width="150" height="150" align="right"/>

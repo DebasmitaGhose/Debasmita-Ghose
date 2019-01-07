@@ -12,7 +12,7 @@ I have been involved in projects in the domain of Robotics,  Ubiquitous Computin
 
 Besides incessantly wanting to learn more every day, I am greatly drawn towards travelling, photography and cooking. 
 
-## News
+### News
 
 - **Summer 2018 -** Received the DAAD RISE Professional Scholarship - 2018 to pursue a research internship with Siemens CT, Munich, Germany
 - **Fall 2017 -** Started Masters in Computer Science at University of Massachsetts, Amherst 

@@ -14,7 +14,7 @@ Besides incessantly wanting to learn more every day, I am greatly drawn towards 
 
 ### News
 
-- **April 2019 -** Will join the  Ph.D. program in Computer Science at Yale University from Fall 2019
+- **April 2019 -** Will join the  Ph.D. program in Computer Science at Yale University from Fall 2019 advised by [Brian Scassellati](http://cs-www.cs.yale.edu/homes/scaz/) and [Marynel Vazquez](http://www.marynel.net/) at the [Yale Social Robotics Lab](https://scazlab.yale.edu/)
 - **Summer 2018 -** Received the DAAD RISE Professional Scholarship - 2018 to pursue a research internship with Siemens CT, Munich, Germany
 - **Fall 2017 -** Started Masters in Computer Science at University of Massachsetts, Amherst 
 - **Spring 2017 -** Selected for a research internship at Nanyang Technological University, Singapore through the NTU India Connect Program 

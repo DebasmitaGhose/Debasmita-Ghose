@@ -22,7 +22,7 @@ Besides incessantly wanting to learn more every day, I am greatly drawn towards 
 - **October 2016 -** Received the Best Student Award for the Batch of 2013-2017, from the Department of Electronics and Communication Engineering, Manipal Institute of Technology, India
 - **Summer 2016 -** Selected for a summer internship at Techniche Universitat, Dresden, Germany
 - **April 2016 -** Our project ***Road Accident Prevention System*** was one of the top 10 finalists at the Atmel Embedded Design Challenge, India 2015 among 2000 teams
-- **December 2014 -** Our project ***Amphibious Rescue and Surveillance Hovercraft*** Won the Best Project Award in the IoT category of Intel India Innovation Challenge, 2014 among 1000 teams. 
+- **December 2014 -** Our project ***Amphibious Rescue and Surveillance Hovercraft*** Won the Best Project Award in the IoT category of Intel India Innovation Challenge, 2014 among 650 teams.| [Media Coverage](http://thebengalurutimes.blogspot.com/2014/12/intel-india-hosts-first-ever-intel.html)
 
 
 ### [GitHub](https://github.com/DebasmitaGhose/) | [LinkedIn](https://www.linkedin.com/in/debasmita-ghose-59859763/) | <a href="mailto:dghose@umass.edu" target="_top">E-Mail</a> | [Google Scholar](https://scholar.google.com/citations?user=cgF857gAAAAJ&hl=en)

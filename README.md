@@ -29,3 +29,5 @@ Besides incessantly wanting to learn more every day, I am greatly drawn towards 
 
 
 ### [GitHub](https://github.com/DebasmitaGhose/) | [LinkedIn](https://www.linkedin.com/in/debasmita-ghose-59859763/) | <a href="mailto:dghose@umass.edu" target="_top">E-Mail</a> | [Google Scholar](https://scholar.google.com/citations?user=cgF857gAAAAJ&hl=en)
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fdebasmitaghose.github.io%2FDebasmita-Ghose%2F)

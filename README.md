@@ -8,7 +8,7 @@
 <img src="profile.jpg" width="150" height="150" align="right"/>
 </p>
 
-I am a graduate student of Computer Science ay Yale University, working on my Ph.D. under [Prof. Brian Scassellatti](http://cs-www.cs.yale.edu/homes/scaz/) at the [Yale Social Robotics Lab](https://scazlab.yale.edu/).I I am interested in exploring Human Robot collaboration in the context of industrial robots. My areas of interest are Robotics, Computer Vision and Embedded System Design.  
+I am a graduate student of Computer Science ay Yale University, working on my Ph.D. under [Prof. Brian Scassellatti](http://cs-www.cs.yale.edu/homes/scaz/) at the [Yale Social Robotics Lab](https://scazlab.yale.edu/).I am interested in exploring Human Robot collaboration in the context of industrial robots. My areas of interest are Robotics, Computer Vision and Embedded System Design.  
 
 
 Previously, I was a Masters student of Computer Science at University of Massachusetts, Amherst. I was working as a Graduate Research Assistant on my Masters Thesis at [Laboratory for Perceptual Robotics](https://www-robotics.cs.umass.edu/), under [Prof. Rod Grupen](http://www-robotics.cs.umass.edu/~grupen/home.html). 

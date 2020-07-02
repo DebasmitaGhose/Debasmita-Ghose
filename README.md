@@ -4,10 +4,6 @@
 
 
 
-<p>
-<img src="profile.jpg" width="150" height="150" align="right"/>
-</p>
-
 I am a Ph.D. student in Computer Science at Yale University,  advised by [Prof. Brian Scassellatti](http://cs-www.cs.yale.edu/homes/scaz/) at the [Yale Social Robotics Lab](https://scazlab.yale.edu/). I am interested in exploring Human Robot collaboration in the context of industrial robots. My areas of interest are Robotics, Computer Vision and Embedded System Design.  
 
 

@@ -19,7 +19,8 @@ In my free time, I enjoy travelling, photography and cooking.
 
 ### News
 
-- **September 2019 -** Started working towards a Ph.D. in Computer Science at Yale University
+- **Fall 2020 -** Will be the Teaching Fellow for the course [Building Interactive Machines](https://cpsc459-bim.gitlab.io/f20/) taught by [Marynel Vazquez](http://www.marynel.net/). 
+- **Fall 2019 -** Started working towards a Ph.D. in Computer Science at Yale University
 - **May 2019 -** Graduated with a Masters in Computer Science from UMass Amherst. 
 - **April 2019 -** Will start working towards a Ph.D. in Computer Science at Yale University from Fall 2019 advised by [Brian Scassellati](http://cs-www.cs.yale.edu/homes/scaz/) and [Marynel Vazquez](http://www.marynel.net/) at the [Yale Social Robotics Lab](https://scazlab.yale.edu/)
 - **April 2019 -** Our paper [***Pedestrian Detection in Thermal Images using Saliency Maps***](https://arxiv.org/abs/1904.06859?context=cs) accepted to the IEEE Workshop on Perception Beyond the Visible Spectrum at CVPR, 2019 (Long Beach, California). <span style="color:red">*[Spotlight Talk Video](https://www.youtube.com/watch?v=Ohs6VUkdcQU&t=19s)*</span>.

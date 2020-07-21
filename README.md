@@ -19,7 +19,7 @@ In my free time, I enjoy travelling, photography and cooking.
 
 ### News
 
-- **Fall 2020 -** Will be the Teaching Fellow for the course [Building Interactive Machines](https://cpsc459-bim.gitlab.io/f20/) taught by [Marynel Vazquez](http://www.marynel.net/). 
+- **Fall 2020 -** Will be the Teaching Fellow for the course [Building Interactive Machines](https://cpsc459-bim.gitlab.io/f20/) which is a graduate level robotics course taught by [Marynel Vazquez](http://www.marynel.net/) at Yale University. 
 - **Fall 2019 -** Started working towards a Ph.D. in Computer Science at Yale University
 - **May 2019 -** Graduated with a Masters in Computer Science from UMass Amherst. 
 - **April 2019 -** Will start working towards a Ph.D. in Computer Science at Yale University from Fall 2019 advised by [Brian Scassellati](http://cs-www.cs.yale.edu/homes/scaz/) and [Marynel Vazquez](http://www.marynel.net/) at the [Yale Social Robotics Lab](https://scazlab.yale.edu/)

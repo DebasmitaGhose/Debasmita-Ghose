@@ -4,7 +4,7 @@
 
 
 
-I am a Ph.D. student in Computer Science at Yale University,  advised by [Prof. Brian Scassellatti](http://cs-www.cs.yale.edu/homes/scaz/) at the [Yale Social Robotics Lab](https://scazlab.yale.edu/). I am interested in exploring Human Robot collaboration in the context of industrial robots. My areas of interest are Robotics, Computer Vision and Embedded System Design.  
+I am a second year Ph.D. student in Computer Science at Yale University,  advised by [Prof. Brian Scassellatti](http://cs-www.cs.yale.edu/homes/scaz/) at the [Yale Social Robotics Lab](https://scazlab.yale.edu/). I am interested in exploring Human Robot collaboration in the context of industrial robots. My areas of interest are Robotics, Computer Vision and Embedded System Design.  
 
 
 Previously, I was a Masters student of Computer Science at University of , Amherst. I was working as a Graduate Research Assistant on my Masters Thesis at [Laboratory for Perceptual Robotics](https://www-roboticMassachusettss.cs.umass.edu/), under [Prof. Rod Grupen](http://www-robotics.cs.umass.edu/~grupen/home.html). 

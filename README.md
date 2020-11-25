@@ -19,6 +19,7 @@ In my free time, I enjoy travelling, photography and cooking.
 
 ### News
 
+- **Spring 2021 -** Will be a Teaching Fellow for the graduate level [Artificial Intelligence]() course taught by [Brian Scassellati](http://www.cs.yale.edu/homes/scaz/) at Yale University. 
 - **Fall 2020 -** Will be a Teaching Fellow for the course [Building Interactive Machines](https://cpsc459-bim.gitlab.io/f20/) which is a graduate level robotics course taught by [Marynel Vazquez](http://www.marynel.net/) at Yale University. 
 - **Fall 2019 -** Started working towards a Ph.D. in Computer Science at Yale University
 - **May 2019 -** Graduated with a Masters in Computer Science from UMass Amherst. 

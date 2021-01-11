@@ -21,12 +21,12 @@ In my free time, I enjoy travelling, photography and cooking.
 
 - **Spring 2021 -** Will be a Teaching Fellow for the graduate level [Artificial Intelligence]() course taught by [Brian Scassellati](http://www.cs.yale.edu/homes/scaz/) at Yale University. 
 - **December 2020 -** Our paper titled ***Why we should build Robots that both Teach and Learn*** got accepted to the 
-ACM/IEEE International Conference on Human-Robot Interaction 2021 to be held at Boulder, Colorado from March 8-11 (virtual due to COVID). 
+ACM/IEEE International Conference on Human-Robot Interaction 2021 to be held at Boulder, Colorado from March 8-11 (virtual due to COVID). [PDF](https://scazlab.yale.edu/sites/default/files/files/hrifp1028-adamsonA.pdf)
 - **Fall 2020 -** Will be a Teaching Fellow for the course [Building Interactive Machines](https://cpsc459-bim.gitlab.io/f20/) which is a graduate level robotics course taught by [Marynel Vazquez](http://www.marynel.net/) at Yale University. 
 - **Fall 2019 -** Started working towards a Ph.D. in Computer Science at Yale University
 - **May 2019 -** Graduated with a Masters in Computer Science from UMass Amherst. 
 - **April 2019 -** Will start working towards a Ph.D. in Computer Science at Yale University from Fall 2019 advised by [Brian Scassellati](http://cs-www.cs.yale.edu/homes/scaz/) and [Marynel Vazquez](http://www.marynel.net/) at the [Yale Social Robotics Lab](https://scazlab.yale.edu/)
-- **April 2019 -** Our paper [***Pedestrian Detection in Thermal Images using Saliency Maps***](https://arxiv.org/abs/1904.06859?context=cs) accepted to the IEEE Workshop on Perception Beyond the Visible Spectrum at CVPR, 2019 (Long Beach, California). <span style="color:red">*[Spotlight Talk Video](https://www.youtube.com/watch?v=Ohs6VUkdcQU&t=19s)*</span>.
+- **April 2019 -** Our paper [***Pedestrian Detection in Thermal Images using Saliency Maps***](https://arxiv.org/abs/1904.06859?context=cs) accepted to the IEEE Workshop on Perception Beyond the Visible Spectrum at CVPR, 2019 (Long Beach, California). <span style="color:red">*[Spotlight Talk Video](https://www.youtube.com/watch?v=Ohs6VUkdcQU&t=19s)*</span> [PDF](https://arxiv.org/abs/1904.06859?context=cs)
 - **Summer 2018 -** Received the DAAD RISE Professional Scholarship - 2018 to pursue a research internship with Siemens CT, Munich, Germany
 - **Fall 2017 -** Started Masters in Computer Science at University of Massachsetts, Amherst 
 - **Spring 2017 -** Selected for a research internship at Nanyang Technological University, Singapore through the NTU India Connect Program 

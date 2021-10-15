@@ -19,7 +19,7 @@ In my free time, I enjoy travelling, photography and cooking.
 
 ### News
 
-- **September 2021 -** Our paper titled ***Active Learning for Improved Semi-Supervised Semantic Segmentation in Satellite Images*** got accepted to the IEEE Winter Conference on Applications of Computer Vision 2022, to be held at Waikoloa, Hawaii | *Paper Coming Soon*
+- **September 2021 -** Our paper titled ***Active Learning for Improved Semi-Supervised Semantic Segmentation in Satellite Images*** got accepted to the IEEE Winter Conference on Applications of Computer Vision 2022, to be held at Waikoloa, Hawaii. | *Paper Coming Soon*
 - **Spring 2021 -** Will be a Teaching Fellow for the graduate level [Artificial Intelligence]() course taught by [Brian Scassellati](http://www.cs.yale.edu/homes/scaz/) at Yale University. 
 - **December 2020 -** Our paper titled ***Why we should build Robots that both Teach and Learn*** got accepted to the 
 ACM/IEEE International Conference on Human-Robot Interaction 2021 to be held at Boulder, Colorado from March 8-11 (virtual due to COVID).| [PDF](https://scazlab.yale.edu/sites/default/files/files/hrifp1028-adamsonA.pdf)

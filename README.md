@@ -1,4 +1,4 @@
-# Debasmita Ghose
+
 
 ## [Projects](https://debasmitaghose.github.io/Projects/) | [CV](https://debasmitaghose.github.io/CV/) | [Robots](https://debasmitaghose.github.io/Robots/)
 

@@ -19,10 +19,10 @@ In my free time, I enjoy travelling, photography and cooking.
 
 ### News
 
-- **September 2021 -** Our paper titled ***Active Learning for Improved Semi-Supervised Semantic Segmentation in Satellite Images*** got accepted to the IEEE Winter Conference on Applications of Computer Vision 2022, to be held at Waikoloa, Hawaii. | *Paper Coming Soon*
+- **September 2021 -** Our paper titled ***Active Learning for Improved Semi-Supervised Semantic Segmentation in Satellite Images*** got accepted to the IEEE Winter Conference on Applications of Computer Vision 2022, to be held at Waikoloa, Hawaii. | [Preprint](https://arxiv.org/abs/2110.07782v1)
 - **Spring 2021 -** Will be a Teaching Fellow for the graduate level [Artificial Intelligence]() course taught by [Brian Scassellati](http://www.cs.yale.edu/homes/scaz/) at Yale University. 
 - **December 2020 -** Our paper titled ***Why we should build Robots that both Teach and Learn*** got accepted to the 
-ACM/IEEE International Conference on Human-Robot Interaction 2021 to be held at Boulder, Colorado from March 8-11 (virtual due to COVID).| [PDF](https://scazlab.yale.edu/sites/default/files/files/hrifp1028-adamsonA.pdf)
+ACM/IEEE International Conference on Human-Robot Interaction 2021 to be held at Boulder, Colorado (virtual due to COVID).| [PDF](https://scazlab.yale.edu/sites/default/files/files/hrifp1028-adamsonA.pdf)
 - **Fall 2020 -** Will be a Teaching Fellow for the course [Building Interactive Machines](https://cpsc459-bim.gitlab.io/f20/) which is a graduate level robotics course taught by [Marynel Vazquez](http://www.marynel.net/) at Yale University. 
 - **Fall 2019 -** Started working towards a Ph.D. in Computer Science at Yale University
 - **May 2019 -** Graduated with a Masters in Computer Science from UMass Amherst. 

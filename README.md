@@ -4,7 +4,7 @@
 
 <img src="profile.jpg" alt="alt text" width="200" align="right"/>
 
-I am a second year Ph.D. student in Computer Science at Yale University,  advised by [Prof. Brian Scassellatti](http://cs-www.cs.yale.edu/homes/scaz/) at the [Yale Social Robotics Lab](https://scazlab.yale.edu/). I am interested in exploring Human Robot collaboration in the context of industrial robots. My areas of interest are Robotics, Computer Vision and Embedded System Design.  
+I am a third year Ph.D. student in Computer Science at Yale University,  advised by [Prof. Brian Scassellatti](http://cs-www.cs.yale.edu/homes/scaz/) at the [Yale Social Robotics Lab](https://scazlab.yale.edu/). I am interested in exploring Human Robot collaboration in the context of industrial robots. Currently, I am working on enabling robots to work alongside a human partner in a recycling facility and  learn which objects to recycle on a moving conveyor belt.  
 
 
 Previously, I was a Masters student of Computer Science at University of , Amherst. I was working as a Graduate Research Assistant on my Masters Thesis at [Laboratory for Perceptual Robotics](https://www-roboticMassachusettss.cs.umass.edu/), under [Prof. Rod Grupen](http://www-robotics.cs.umass.edu/~grupen/home.html). 
@@ -13,7 +13,7 @@ I earned my BS in Electronics and Communication Engineering from Manipal Institu
 
 I have enjoyed working at Technical University of Dresden (Germany), Nanyang Technological University, (Singapore) and Siemens Corporate Technology, (Munich, Germany). 
 
-I have been involved in projects in the domain of Robotics,  Ubiquitous Computing,  Machine Learning and Deep Learning for Computer Vision. Additionally,  I am interested in the manipulation and control of robots in chaotic environments and the design of UAVs.
+I have been involved in projects in the domain of Robotics,  Ubiquitous Computing,  Machine Learning, Deep Learning for Computer Vision and Embedded System Design. Additionally,  I am interested in the manipulation and control of robots in chaotic environments.
 
 In my free time, I enjoy travelling, photography and cooking. 
 

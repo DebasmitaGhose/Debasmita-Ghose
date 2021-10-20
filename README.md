@@ -2,7 +2,7 @@
 
 ## [Projects](https://debasmitaghose.github.io/Projects/) | [CV](https://debasmitaghose.github.io/CV/) | [Robots](https://debasmitaghose.github.io/Robots/)
 
-
+<img src="profile.jpg" alt="alt text" width="200" align="right"/>
 
 I am a second year Ph.D. student in Computer Science at Yale University,  advised by [Prof. Brian Scassellatti](http://cs-www.cs.yale.edu/homes/scaz/) at the [Yale Social Robotics Lab](https://scazlab.yale.edu/). I am interested in exploring Human Robot collaboration in the context of industrial robots. My areas of interest are Robotics, Computer Vision and Embedded System Design.  
 

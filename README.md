@@ -1,6 +1,6 @@
 
 
-## [Projects](https://debasmitaghose.github.io/Projects/) | [CV](https://debasmitaghose.github.io/CV/) | [Robots](https://debasmitaghose.github.io/Robots/)
+## [Publications](https://sites.google.com/view/debasmita-publications/home) | [CV](https://sites.google.com/view/debasmita-cv/home) | [Robots](https://sites.google.com/view/debasmita-robots/home)
 
 <img src="profile.jpg" alt="alt text" width="200" align="right"/>
 

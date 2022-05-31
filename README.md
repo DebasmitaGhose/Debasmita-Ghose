@@ -19,7 +19,7 @@ In my free time, I enjoy travelling, photography and cooking.
 
 ### News
 
-- **May 2021 -** Our paper titled ***The Impact of an In-Home Co-Located Robotic Coach in Helping People Make Fewer Exercise Mistakes** was accepted to the IEEE International Conference on Robot & Human Interactive Communication 2022 (RO-MAN 2022), to be held at Napoli, Italy 
+- **May 2021 -** Our paper titled ***The Impact of an In-Home Co-Located Robotic Coach in Helping People Make Fewer Exercise Mistakes*** was accepted to the IEEE International Conference on Robot & Human Interactive Communication 2022 (RO-MAN 2022), to be held at Napoli, Italy 
 - **September 2021 -** Our paper titled ***Active Learning for Improved Semi-Supervised Semantic Segmentation in Satellite Images*** was accepted to the IEEE Winter Conference on Applications of Computer Vision 2022, to be held at Waikoloa, Hawaii. | [Preprint](https://arxiv.org/abs/2110.07782v1)
 - **Spring 2021 -** Will be a Teaching Fellow for the graduate level [Artificial Intelligence]() course taught by [Brian Scassellati](http://www.cs.yale.edu/homes/scaz/) at Yale University. 
 - **December 2020 -** Our paper titled ***Why we should build Robots that both Teach and Learn*** was accepted to the ACM/IEEE International Conference on Human-Robot Interaction 2021 to be held at Boulder, Colorado (virtual due to COVID) | [PDF](https://scazlab.yale.edu/sites/default/files/files/hrifp1028-adamsonA.pdf)

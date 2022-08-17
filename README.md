@@ -4,7 +4,7 @@
 
 <img src="profile.jpg" alt="alt text" width="200" align="right"/>
 
-I am a third year Ph.D. student in Computer Science at Yale University,  advised by [Prof. Brian Scassellatti](http://cs-www.cs.yale.edu/homes/scaz/) at the [Yale Social Robotics Lab](https://scazlab.yale.edu/). I am interested in exploring Human Robot collaboration in the context of industrial robots. Currently, I am working on enabling robots to work alongside a human partner in a recycling facility and  learn which objects to recycle on a moving conveyor belt.  
+I am a fourth year Ph.D. student in Computer Science at Yale University,  advised by [Prof. Brian Scassellatti](http://cs-www.cs.yale.edu/homes/scaz/) at the [Yale Social Robotics Lab](https://scazlab.yale.edu/) working on human-robot collaboration. 
 
 
 Previously, I was a Masters student of Computer Science at University of , Amherst. I was working as a Graduate Research Assistant on my Masters Thesis at [Laboratory for Perceptual Robotics](https://www-roboticMassachusettss.cs.umass.edu/), under [Prof. Rod Grupen](http://www-robotics.cs.umass.edu/~grupen/home.html). 

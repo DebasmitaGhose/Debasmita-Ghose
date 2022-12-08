@@ -18,7 +18,7 @@ I have been involved in projects in the domain of Robotics,  Ubiquitous Computin
 In my free time, I enjoy travelling, photography and cooking. 
 
 ### News
-- **December 2022 -** Our paper Interactive Policy Shaping for Human-Robot Collaboration using Transparent Matrix Overlays was accepted to the ACM/IEEE International Conference on Human-Robot Interaction 2023 (HRI 2023), to be held in Stockholm, Sweden
+- **December 2022 -** Our paper ***Interactive Policy Shaping for Human-Robot Collaboration with Transparent Matrix Overlays*** was accepted to the ACM/IEEE International Conference on Human-Robot Interaction 2023 (HRI 2023), to be held in Stockholm, Sweden
 - **September 2022 -** Our paper titled ***Tailoring Visual Object Representations to Human Requirements: Case Study of a Recycling Robot*** was accepted to the Conference on Robot Learning 2022 (CoRL 2022), to be held at Auckland, New Zealand
 - **May 2022 -** Our paper titled ***The Impact of an In-Home Co-Located Robotic Coach in Helping People Make Fewer Exercise Mistakes*** was accepted to the IEEE International Conference on Robot & Human Interactive Communication 2022 (RO-MAN 2022), to be held at Napoli, Italy ([PDF](https://scazlab.yale.edu/sites/default/files/files/RO_MAN_2022%20coaching.pdf))
 - **September 2021 -** Our paper titled ***Active Learning for Improved Semi-Supervised Semantic Segmentation in Satellite Images*** was accepted to the IEEE Winter Conference on Applications of Computer Vision 2022, to be held at Waikoloa, Hawaii. ([PDF](https://arxiv.org/abs/2110.07782v1))
